@@ -1,0 +1,4 @@
+[Utility-readFile()] RANK ERROR - Invalid rank found in csv file: 0.
+[Utility-readFile()] RANK ERROR - Invalid rank found in csv file: 5.
+[Utility-readFile()] RANK ERROR - Invalid rank found in csv file: -2.
+[Utility-readFile()] RANK ERROR - Invalid rank found in csv file: ERROR.
